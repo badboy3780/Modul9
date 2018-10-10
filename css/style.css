@@ -23,16 +23,19 @@
     border-radius: 22px;
     margin-bottom: 118px;
     padding-right: 11px;
+    cursor: pointer;
 }
 
 .sign_up {
     margin-left: 10px;
     border-color: white;
     padding: 5px 15px;
+    cursor: pointer;
 }
 
 .btns-group-header {
     margin-right: 27px;
+    cursor: pointer;
 }
 
 .logo {
@@ -180,6 +183,7 @@
     background-color: transparent;
     margin-bottom: 68px;
     margin-right: 3px;
+    cursor: pointer;
 }
 
 
